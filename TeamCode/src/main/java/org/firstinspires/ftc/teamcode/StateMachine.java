@@ -19,7 +19,7 @@ class StateMachine{
 
     public String flag = "";
     //Robot rbt= Robot.getInstance();
-    //From kung branch
+    //From NEW Kung Local branch
     Robot rbt = Robot.getInstance();
     final String TAG = "StateMachine";
     final double wheelCircumference = 2.7222222222222222222222222222222 * Math.PI;
